@@ -2,10 +2,6 @@
 
 Hi!!
 
-## Instructions
-
-Some Instructions.
-
-### Disclaimer
+## Disclaimer
 
 Its a practise test of Git workflow.
